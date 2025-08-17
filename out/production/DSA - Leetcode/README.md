@@ -15,6 +15,7 @@ Each file contains the solution for a specific LeetCode problem, named in the fo
 
 
 Example:
+- `leetcode_5.java` → **Longest Palindromic Substring**
 - `leetcode_125.java` → **Valid Palindrome**
 - `leetcode_2108.java` → **Find First Palindromic String in the Array**
 
@@ -34,13 +35,7 @@ Example:
 
 ---
 
-## 📊 Progress Tracker
-| Date       | Problems Solved |
-|------------|-----------------|
-| 2025-08-12 | 2               |
-| *Updating...* | *Daily*     |
 
----
 
 ## 📬 Contact
 - **GitHub:** [avanishshaw](https://github.com/avanishshaw)
